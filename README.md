@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**harinivennapusa/harinivennapusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Electronics & Communication Engineering Student | Future Software Developer
+💡 Passionate about coding and logical problem solving
+💻 Skilled in basics of Python, C, and HTML
+📚 Continuously improving programming skills through daily practice
+🚀 Interested in software development and backend technologies
+ portfolio/Linkedin:https://www.linkedin.com/in/harini-vennapusa-2b746b359. harinireddyvennapusa@gmail.com
+🌱 Currently learning:
+Data Structures
+Advanced Python concepts
+Git & Version Control
